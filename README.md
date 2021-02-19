@@ -68,7 +68,7 @@ gcc -Wall hello.c -o hello
 
 ### Compiling using Make
 
-* Compiling manually is a good first step but as soon as the code grows compiling manually doesnot make sense and one has to do this using tools such as Make and CMake.
+* Compiling manually is a good first step but as soon as the code grows compiling manually doesnot make sense and one has to do this using tools such as Make and CMAKE.
 
 * checkout the basic ```Makefile``` written in the basics folder.
 * The ```make build``` command runs the compilation process and creates a binary in target folder
